@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sersoluciones.flutter_pos_printer_platform-merged_res-12:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/abdoulganeey/.gradle/caches/transforms-3/1b0dca220b0e3498d2f477bbab51fa85/transformed/appcompat-1.0.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.sersoluciones.flutter_pos_printer_platform-mergeReleaseResources-10:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/abdoulganeey/.gradle/caches/transforms-3/1b0dca220b0e3498d2f477bbab51fa85/transformed/appcompat-1.0.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

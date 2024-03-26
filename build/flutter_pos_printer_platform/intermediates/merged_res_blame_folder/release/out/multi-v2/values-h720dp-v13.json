@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sersoluciones.flutter_pos_printer_platform-merged_res-12:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/abdoulganeey/.gradle/caches/transforms-3/1b0dca220b0e3498d2f477bbab51fa85/transformed/appcompat-1.0.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.sersoluciones.flutter_pos_printer_platform-mergeReleaseResources-10:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/abdoulganeey/.gradle/caches/transforms-3/1b0dca220b0e3498d2f477bbab51fa85/transformed/appcompat-1.0.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

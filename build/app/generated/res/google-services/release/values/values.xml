@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1035511727314-ue5iptkldpqpvt2nf7rkambt5tcpsau3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1035511727314</string>
+    <string name="google_api_key" translatable="false">AIzaSyB2FqSS6GctPWP1eY__tJ77hzI1OQ805V4</string>
+    <string name="google_app_id" translatable="false">1:1035511727314:android:a8678e5bb656d09f95d90b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB2FqSS6GctPWP1eY__tJ77hzI1OQ805V4</string>
+    <string name="google_storage_bucket" translatable="false">lucid-diode-392312.appspot.com</string>
+    <string name="project_id" translatable="false">lucid-diode-392312</string>
+</resources>

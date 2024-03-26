@@ -1,0 +1,16 @@
+com.sersoluciones.flutter_pos_printer_platform-jetified-annotation-experimental-1.1.0-0 /home/abdoulganeey/.gradle/caches/transforms-3/159b7dd9c79770d1c8cc1b999f530620/transformed/jetified-annotation-experimental-1.1.0/res
+com.sersoluciones.flutter_pos_printer_platform-core-1.6.0-1 /home/abdoulganeey/.gradle/caches/transforms-3/1a65c04552f3b843b17ec3a69a2ee8f4/transformed/core-1.6.0/res
+com.sersoluciones.flutter_pos_printer_platform-appcompat-1.0.0-2 /home/abdoulganeey/.gradle/caches/transforms-3/1b0dca220b0e3498d2f477bbab51fa85/transformed/appcompat-1.0.0/res
+com.sersoluciones.flutter_pos_printer_platform-coordinatorlayout-1.0.0-3 /home/abdoulganeey/.gradle/caches/transforms-3/cfc27a708d38732aef5af1c995f1c19c/transformed/coordinatorlayout-1.0.0/res
+com.sersoluciones.flutter_pos_printer_platform-jetified-window-1.0.0-beta04-4 /home/abdoulganeey/.gradle/caches/transforms-3/d4b526a238cc7fc2a2edde6099ca60d1/transformed/jetified-window-1.0.0-beta04/res
+com.sersoluciones.flutter_pos_printer_platform-jetified-window-java-1.0.0-beta04-5 /home/abdoulganeey/.gradle/caches/transforms-3/ed88b8e13803f9d0b82f501a0f3368d4/transformed/jetified-window-java-1.0.0-beta04/res
+com.sersoluciones.flutter_pos_printer_platform-main-6 /home/abdoulganeey/.pub-cache/hosted/pub.dev/flutter_pos_printer_platform-1.4.2/android/src/main/res
+com.sersoluciones.flutter_pos_printer_platform-release-7 /home/abdoulganeey/.pub-cache/hosted/pub.dev/flutter_pos_printer_platform-1.4.2/android/src/release/res
+com.sersoluciones.flutter_pos_printer_platform-pngs-8 /home/abdoulganeey/Vendor_app/build/flutter_pos_printer_platform/generated/res/pngs/release
+com.sersoluciones.flutter_pos_printer_platform-resValues-9 /home/abdoulganeey/Vendor_app/build/flutter_pos_printer_platform/generated/res/resValues/release
+com.sersoluciones.flutter_pos_printer_platform-rs-10 /home/abdoulganeey/Vendor_app/build/flutter_pos_printer_platform/generated/res/rs/release
+com.sersoluciones.flutter_pos_printer_platform-mergeReleaseResources-11 /home/abdoulganeey/Vendor_app/build/flutter_pos_printer_platform/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.sersoluciones.flutter_pos_printer_platform-mergeReleaseResources-12 /home/abdoulganeey/Vendor_app/build/flutter_pos_printer_platform/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.sersoluciones.flutter_pos_printer_platform-merged_res-13 /home/abdoulganeey/Vendor_app/build/flutter_pos_printer_platform/intermediates/merged_res/release
+com.sersoluciones.flutter_pos_printer_platform-packaged_res-14 /home/abdoulganeey/Vendor_app/build/flutter_star_prnt/intermediates/packaged_res/release
+com.sersoluciones.flutter_pos_printer_platform-packaged_res-15 /home/abdoulganeey/Vendor_app/build/network_info_plus/intermediates/packaged_res/release

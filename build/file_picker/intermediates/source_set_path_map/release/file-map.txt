@@ -1,0 +1,13 @@
+com.mr.flutter.plugin.filepicker.file_picker-jetified-annotation-experimental-1.1.0-0 /home/abdoulganeey/.gradle/caches/transforms-3/159b7dd9c79770d1c8cc1b999f530620/transformed/jetified-annotation-experimental-1.1.0/res
+com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-1 /home/abdoulganeey/.gradle/caches/transforms-3/1a65c04552f3b843b17ec3a69a2ee8f4/transformed/core-1.6.0/res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-1.0.0-beta04-2 /home/abdoulganeey/.gradle/caches/transforms-3/d4b526a238cc7fc2a2edde6099ca60d1/transformed/jetified-window-1.0.0-beta04/res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-java-1.0.0-beta04-3 /home/abdoulganeey/.gradle/caches/transforms-3/ed88b8e13803f9d0b82f501a0f3368d4/transformed/jetified-window-java-1.0.0-beta04/res
+com.mr.flutter.plugin.filepicker.file_picker-main-4 /home/abdoulganeey/.pub-cache/hosted/pub.dev/file_picker-6.1.1/android/src/main/res
+com.mr.flutter.plugin.filepicker.file_picker-release-5 /home/abdoulganeey/.pub-cache/hosted/pub.dev/file_picker-6.1.1/android/src/release/res
+com.mr.flutter.plugin.filepicker.file_picker-pngs-6 /home/abdoulganeey/Vendor_app/build/file_picker/generated/res/pngs/release
+com.mr.flutter.plugin.filepicker.file_picker-resValues-7 /home/abdoulganeey/Vendor_app/build/file_picker/generated/res/resValues/release
+com.mr.flutter.plugin.filepicker.file_picker-rs-8 /home/abdoulganeey/Vendor_app/build/file_picker/generated/res/rs/release
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-9 /home/abdoulganeey/Vendor_app/build/file_picker/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-10 /home/abdoulganeey/Vendor_app/build/file_picker/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.mr.flutter.plugin.filepicker.file_picker-merged_res-11 /home/abdoulganeey/Vendor_app/build/file_picker/intermediates/merged_res/release
+com.mr.flutter.plugin.filepicker.file_picker-packaged_res-12 /home/abdoulganeey/Vendor_app/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/release

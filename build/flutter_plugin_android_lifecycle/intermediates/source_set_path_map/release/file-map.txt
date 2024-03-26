@@ -1,0 +1,12 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.1.0-0 /home/abdoulganeey/.gradle/caches/transforms-3/159b7dd9c79770d1c8cc1b999f530620/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.6.0-1 /home/abdoulganeey/.gradle/caches/transforms-3/1a65c04552f3b843b17ec3a69a2ee8f4/transformed/core-1.6.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.0.0-beta04-2 /home/abdoulganeey/.gradle/caches/transforms-3/d4b526a238cc7fc2a2edde6099ca60d1/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.0.0-beta04-3 /home/abdoulganeey/.gradle/caches/transforms-3/ed88b8e13803f9d0b82f501a0f3368d4/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-4 /home/abdoulganeey/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.13/android/src/main/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-5 /home/abdoulganeey/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.13/android/src/release/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-6 /home/abdoulganeey/Vendor_app/build/flutter_plugin_android_lifecycle/generated/res/pngs/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-7 /home/abdoulganeey/Vendor_app/build/flutter_plugin_android_lifecycle/generated/res/resValues/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-rs-8 /home/abdoulganeey/Vendor_app/build/flutter_plugin_android_lifecycle/generated/res/rs/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-9 /home/abdoulganeey/Vendor_app/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-10 /home/abdoulganeey/Vendor_app/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-merged_res-11 /home/abdoulganeey/Vendor_app/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release

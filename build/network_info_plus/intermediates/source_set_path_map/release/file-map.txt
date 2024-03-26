@@ -1,0 +1,12 @@
+dev.fluttercommunity.plus.network_info.network_info_plus-jetified-annotation-experimental-1.1.0-0 /home/abdoulganeey/.gradle/caches/transforms-3/159b7dd9c79770d1c8cc1b999f530620/transformed/jetified-annotation-experimental-1.1.0/res
+dev.fluttercommunity.plus.network_info.network_info_plus-core-1.6.0-1 /home/abdoulganeey/.gradle/caches/transforms-3/1a65c04552f3b843b17ec3a69a2ee8f4/transformed/core-1.6.0/res
+dev.fluttercommunity.plus.network_info.network_info_plus-jetified-window-1.0.0-beta04-2 /home/abdoulganeey/.gradle/caches/transforms-3/d4b526a238cc7fc2a2edde6099ca60d1/transformed/jetified-window-1.0.0-beta04/res
+dev.fluttercommunity.plus.network_info.network_info_plus-jetified-window-java-1.0.0-beta04-3 /home/abdoulganeey/.gradle/caches/transforms-3/ed88b8e13803f9d0b82f501a0f3368d4/transformed/jetified-window-java-1.0.0-beta04/res
+dev.fluttercommunity.plus.network_info.network_info_plus-main-4 /home/abdoulganeey/.pub-cache/hosted/pub.dev/network_info_plus-2.3.2/android/src/main/res
+dev.fluttercommunity.plus.network_info.network_info_plus-release-5 /home/abdoulganeey/.pub-cache/hosted/pub.dev/network_info_plus-2.3.2/android/src/release/res
+dev.fluttercommunity.plus.network_info.network_info_plus-pngs-6 /home/abdoulganeey/Vendor_app/build/network_info_plus/generated/res/pngs/release
+dev.fluttercommunity.plus.network_info.network_info_plus-resValues-7 /home/abdoulganeey/Vendor_app/build/network_info_plus/generated/res/resValues/release
+dev.fluttercommunity.plus.network_info.network_info_plus-rs-8 /home/abdoulganeey/Vendor_app/build/network_info_plus/generated/res/rs/release
+dev.fluttercommunity.plus.network_info.network_info_plus-mergeReleaseResources-9 /home/abdoulganeey/Vendor_app/build/network_info_plus/intermediates/incremental/release/mergeReleaseResources/merged.dir
+dev.fluttercommunity.plus.network_info.network_info_plus-mergeReleaseResources-10 /home/abdoulganeey/Vendor_app/build/network_info_plus/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+dev.fluttercommunity.plus.network_info.network_info_plus-merged_res-11 /home/abdoulganeey/Vendor_app/build/network_info_plus/intermediates/merged_res/release

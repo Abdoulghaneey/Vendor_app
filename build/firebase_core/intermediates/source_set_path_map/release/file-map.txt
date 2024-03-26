@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-0 /home/abdoulganeey/.gradle/caches/transforms-3/159b7dd9c79770d1c8cc1b999f530620/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-1 /home/abdoulganeey/.gradle/caches/transforms-3/1a65c04552f3b843b17ec3a69a2ee8f4/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.1.0-2 /home/abdoulganeey/.gradle/caches/transforms-3/336c833b5f97826751d2402556b33237/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.4.2-3 /home/abdoulganeey/.gradle/caches/transforms-3/c0ca8181488f4845781ae8bc3538576e/transformed/jetified-firebase-common-20.4.2/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-4 /home/abdoulganeey/.gradle/caches/transforms-3/d4b526a238cc7fc2a2edde6099ca60d1/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-5 /home/abdoulganeey/.gradle/caches/transforms-3/ed88b8e13803f9d0b82f501a0f3368d4/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-main-6 /home/abdoulganeey/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/android/src/main/res
+io.flutter.plugins.firebase.core.firebase_core-release-7 /home/abdoulganeey/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/android/src/release/res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 /home/abdoulganeey/Vendor_app/build/firebase_core/generated/res/pngs/release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 /home/abdoulganeey/Vendor_app/build/firebase_core/generated/res/resValues/release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 /home/abdoulganeey/Vendor_app/build/firebase_core/generated/res/rs/release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 /home/abdoulganeey/Vendor_app/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 /home/abdoulganeey/Vendor_app/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 /home/abdoulganeey/Vendor_app/build/firebase_core/intermediates/merged_res/release
